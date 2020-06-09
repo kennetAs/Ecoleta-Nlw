@@ -1,0 +1,41 @@
+:root {
+    --title-color: #322153;
+    --primary-color: #4fee97;
+}
+
+html {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Ubuntu, sans-serif;
+    color: var(--title-color);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/*BOX_MODEL
+
+modelo de caixa
+
+toda caixa tem:
+largura, espacamento, altura, bortas, cor, fundo, 
+maneira que é vista pelo html, aliamento, diplay,
+*/
+
+
