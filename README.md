@@ -21,7 +21,7 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
-🚀 Tecnologias Utilizadas:
+## 🚀 Tecnologias Utilizadas:
 
 - <a href="https://nodejs.org/en/" style="text-decoration: none; font-size: 16px; color: #fff;" >Node JS </a>
 - <a href="https://pt-br.reactjs.org/" style="text-decoration: none; font-size: 16px; color: #fff;" >React JS </a>
