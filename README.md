@@ -18,7 +18,7 @@ Os usuários terão acesso ao aplicativo móvel, onde poderão:
 - navegar pelo mapa para ver as instituições cadastradas
 - entrar em contato com a entidade através do E-mail ou do WhatsApp
 
-Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](rs).
+Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 
@@ -73,5 +73,4 @@ $ npm run start
 [Entre em contato!](https://www.linkedin.com/in/kennet-andersoon-7a87b61ab/)
 
 
-[vscode]: https://code.visualstudio.com/
-[rs]: https://rocketseat.com.br
+
